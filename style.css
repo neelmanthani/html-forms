@@ -1,0 +1,15 @@
+form {
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+    height: 250px;
+}
+
+form .item {
+    display:flex;
+    flex-direction:column;
+}
+
+form button {
+    width: 100px;
+}
